@@ -19,3 +19,12 @@ npm i moment
 # express.js를 설치한다
 npm i express
 ```
+
+## supervisor 설치
+```bash
+# supervisor 모듈을 global 옵션을 통해서 설치한다 (한번만)
+# npm install --global supervisor
+npm i -g supervisor
+```
+
+## app.js 생성
